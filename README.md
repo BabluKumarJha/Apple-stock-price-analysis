@@ -75,6 +75,8 @@ NumPy
 
 Matplotlib
 
+Seaborn
+
 finance
 
 
@@ -152,7 +154,7 @@ Dashboard integration using Power BI or Streamlit
 
 ## Author
 
-~_*Bablu Kumar Jha*_~
+_*Bablu Kumar Jha*_
 GitHub | Data Analyst & Python Developer | Data scientist
 
 
