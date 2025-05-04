@@ -77,7 +77,7 @@ Matplotlib
 
 Seaborn
 
-finance
+Google
 
 
 
@@ -120,7 +120,7 @@ Run the cells sequentially to view the data cleaning, analysis, and visualizatio
 
 ## Data Source
 
-Data is retrieved using the yfinance library, which fetches historical stock data directly from Yahoo Finance.
+Google
 
 
 
